@@ -1,0 +1,2 @@
+c:\users\dexter\documents\visual studio 2015\Projects\Myapp\Myapp\Myapp.UWP\Myapp.UWP.csproj;x86
+c:\users\dexter\documents\visual studio 2015\Projects\Myapp\Myapp\Myapp\Myapp.csproj;neutral
